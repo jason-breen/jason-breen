@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jason-breen
-- 👀 I’m interested in creating tools that simplify work
-- 💞️ I’m looking to collaborate on projects related to power generation and associated engineering problems
+- 👀 I’m interested in creating tools to improve the developer experience
+- 💞️ I'm passionate about empathetic engineering, innovation, and engineering leadership
 - 📫 How to reach me:
     
     jason.breen@gmail.com
